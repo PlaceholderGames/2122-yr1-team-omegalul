@@ -1,6 +1,14 @@
+<<<<<<< Updated upstream
 {
 	"FileVersion": 3,
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": ""
+=======
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.25",
+	"Category": "",
+	"Description": ""
+>>>>>>> Stashed changes
 }
