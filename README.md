@@ -1,2 +1,3 @@
-# 2122-yr1-team-omegalul
-CS1S464 2021/22 Team Omegalul
+# Tutorial Menu Test
+
+Developed with Unreal Engine 4
